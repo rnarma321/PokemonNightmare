@@ -1,0 +1,1 @@
+C:\Users\rosha\Documents\Code\PokemonNightmare\Images\7\squirtle\000001.2379585844.png: "Fantasy Mythical Creature, HD, 4K, ultra-realistic, artstation, by greg rutkowski" -s50 -W512 -H512 -C7.5 -Ak_lms -IC:\Users\rosha\Documents\Code\PokemonNightmare\Images\7\squirtle.png -f0.63 -S2379585844

@@ -1,0 +1,1 @@
+C:\Users\rosha\Documents\Code\PokemonNightmare\Images2\45\vileplume\000001.4031870961.png: "Mech,futuristic,robot,highly detailed,sharp focus, HD,steampunk, 4K, Ultra realistic, artstation, by greg rutkowski" -s50 -W512 -H512 -C7.5 -Ak_lms -IC:\Users\rosha\Documents\Code\PokemonNightmare\Images2\45\vileplume.png -f0.59 -S4031870961

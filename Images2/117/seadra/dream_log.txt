@@ -1,0 +1,1 @@
+C:\Users\rosha\Documents\Code\PokemonNightmare\Images2\117\seadra\000001.1012168003.png: "Mech,futuristic,robot,highly detailed,sharp focus, HD,steampunk, 4K, Ultra realistic, artstation, by greg rutkowski" -s50 -W512 -H512 -C7.5 -Ak_lms -IC:\Users\rosha\Documents\Code\PokemonNightmare\Images2\117\seadra.png -f0.59 -S1012168003

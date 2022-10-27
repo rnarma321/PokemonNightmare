@@ -1,0 +1,1 @@
+C:\Users\rosha\Documents\Code\PokemonNightmare\Images\110\weezing\000001.1580748058.png: "Fantasy Mythical Creature, HD, 4K, ultra-realistic, artstation, by greg rutkowski" -s50 -W512 -H512 -C7.5 -Ak_lms -IC:\Users\rosha\Documents\Code\PokemonNightmare\Images\110\weezing.png -f0.63 -S1580748058

@@ -1,0 +1,1 @@
+C:\Users\rosha\Documents\Code\PokemonNightmare\Images\31\nidoqueen\000001.3681487893.png: "Fantasy Mythical Creature, HD, 4K, ultra-realistic, artstation, by greg rutkowski" -s50 -W512 -H512 -C7.5 -Ak_lms -IC:\Users\rosha\Documents\Code\PokemonNightmare\Images\31\nidoqueen.png -f0.63 -S3681487893

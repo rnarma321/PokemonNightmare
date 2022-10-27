@@ -1,0 +1,1 @@
+C:\Users\rosha\Documents\Code\PokemonNightmare\Images2\113\chansey\000001.2194585521.png: "Mech,futuristic,robot,highly detailed,sharp focus, HD,steampunk, 4K, Ultra realistic, artstation, by greg rutkowski" -s50 -W512 -H512 -C7.5 -Ak_lms -IC:\Users\rosha\Documents\Code\PokemonNightmare\Images2\113\chansey.png -f0.59 -S2194585521
